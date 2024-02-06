@@ -1,0 +1,157 @@
+[
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "### CPU temperature is 0.0 degrees Celsius."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "Get next active sg index check."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "No any further index is active so checking from 0 again"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "SignalGroup1 state IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "No discrepant signals found."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "SignalGroup2 state IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:03",
+        "level": "INFO",
+        "message": "No discrepant signals found."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SG Controller: checking sg states"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup1 health check."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup1 Time difference 753425348.50599"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup1: IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup2 health check."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup2 Time difference 753425348.527155"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup2: IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "### CPU temperature is 0.0 degrees Celsius."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "Get next active sg index check."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "Working on last sg so starting from 0"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "No any further index is active so checking from 0 again"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup1 state IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "No discrepant signals found."
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "SignalGroup2 state IN_ACTIVE"
+    },
+    {
+        "timestamp": "2023-11-16 10:19:08",
+        "level": "INFO",
+        "message": "No discrepant signals found."
+    },
+    {
+        "timestamp": "2023-11-16 10:20:06",
+        "level": "INFO",
+        "message": {
+            "CLIENT_ID": "SignalGroup1",
+            "DEFAULT_TIMER": 10,
+            "SIGNALS": [
+                {
+                    "NAME": "S1",
+                    "LOAD_FACTOR": "MEDIUM",
+                    "STREAM_URL": "rtsp://admin:smartsignal@2022@192.168.150.75:554/Streaming/Channels/101/?transportmode=unicast",
+                    "IMAGE_URL": "https://media.wired.com/photos/593256b42a990b06268a9e21/master/w_2560%2Cc_limit/traffic-jam-getty.jpg",
+                    "USER_NAME": "admin",
+                    "PASSWORD": "SGS@2023"
+                },
+                {
+                    "NAME": "S2",
+                    "LOAD_FACTOR": "MEDIUM",
+                    "STREAM_URL": "rtsp://admin:smartsignal@2022@192.168.150.75:554/Streaming/Channels/101/?transportmode=unicast",
+                    "IMAGE_URL": "https://media.wired.com/photos/593256b42a990b06268a9e21/master/w_2560%2Cc_limit/traffic-jam-getty.jpg",
+                    "USER_NAME": "admin",
+                    "PASSWORD": "Admin@2023"
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2023-11-16 10:20:06",
+        "level": "INFO",
+        "message": {
+            "CLIENT_ID": "SignalGroup2",
+            "DEFAULT_TIMER": 5,
+            "SIGNALS": [
+                {
+                    "NAME": "S1",
+                    "LOAD_FACTOR": "MEDIUM",
+                    "STREAM_URL": "rtsp://admin:smartsignal2022@192.168.150.64:554/Streaming/Channels/101/?transportmode=unicast",
+                    "IMAGE_URL": "https://media.wired.com/photos/593256b42a990b06268a9e21/master/w_2560%2Cc_limit/traffic-jam-getty.jpg",
+                    "USER_NAME": "admin",
+                    "PASSWORD": "Admin@2023"
+                },
+                {
+                    "NAME": "S2",
+                    "LOAD_FACTOR": "MEDIUM",
+                    "STREAM_URL": "rtsp://admin:smartsignal@2022@192.168.150.65:554/Streaming/Channels/101/?transportmode=unicast",
+                    "IMAGE_URL": "https://media.wired.com/photos/593256b42a990b06268a9e21/master/w_2560%2Cc_limit/traffic
