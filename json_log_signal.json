@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "2023-12-13 16:26:09,245",
+    "level": "INFO",
+    "message": "*** SignalGroup1, S1  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,257",
+    "level": "ERROR",
+    "message": "*** SignalGroup1, S1 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,258",
+    "level": "INFO",
+    "message": "signal group, signal : S2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,591",
+    "level": "INFO",
+    "message": "*** SignalGroup1, S1  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,592",
+    "level": "ERROR",
+    "message": "*** SignalGroup1, S1 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,593",
+    "level": "INFO",
+    "message": "signal group, signal : S2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,671",
+    "level": "INFO",
+    "message": "*** SignalGroup1, S2  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,672",
+    "level": "ERROR",
+    "message": "*** SignalGroup1, S2 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,672",
+    "level": "INFO",
+    "message": "signal group : SignalGroup2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,673",
+    "level": "INFO",
+    "message": "signal group, signal : S1"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,990",
+    "level": "INFO",
+    "message": "*** SignalGroup1, S2  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,991",
+    "level": "ERROR",
+    "message": "*** SignalGroup1, S2 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,991",
+    "level": "INFO",
+    "message": "signal group : SignalGroup2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:09,992",
+    "level": "INFO",
+    "message": "signal group, signal : S1"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,064",
+    "level": "INFO",
+    "message": "*** SignalGroup2, S1  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,065",
+    "level": "ERROR",
+    "message": "*** SignalGroup2, S1 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,066",
+    "level": "INFO",
+    "message": "signal group, signal : S2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,315",
+    "level": "INFO",
+    "message": "recursively calling configure timers !"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,319",
+    "level": "INFO",
+    "message": "*** IMG_PROC Reconfiguring sg signals load factor."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:10,320",
+    "level": "INFO",
+    "message": "IMG_PROC signal groups in total : 2"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:11,159",
+    "level": "INFO",
+    "message": "*** SignalGroup2, S1  Vehicle count returned 66, Car: 65, Persons: 0, Bicycle: 0, Motorcycle: 0, Bus: 1, Truck: 0."
+  },
+  {
+    "timestamp": "2023-12-13 16:26:11,161",
+    "level": "ERROR",
+    "message": "*** SignalGroup2, S1 Beyond LOAD_FACTOR Range. Set to high: 50"
+  },
+  {
+    "timestamp": "2023-12-13 16:26:11,161",
+    "level": "INFO",
+    "message": "signal group, signal : S2"
+  }
+]
